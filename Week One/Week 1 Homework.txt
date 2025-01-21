@@ -1,0 +1,5 @@
+GUI versus CLI
+I’m old enough to remember “coding” in high school in 1986. We did it on a CLI environment the “dot prompt”. The screen was about 8” with a black background and green letters. No wonder I need glasses.  It was a long time after that when I learned “Guey” was the replacement and swore I would never go back. And yet, here I am. 
+In high school, I remember we designed a game – I believe it was something like solitaire, and it was agony. Each. Line. Of. Code. 
+But, now I have a game in mind that I wouldn’t mind trying to design for this course or at least start it. Inside I’m quietly hoping there is a lot of GUI but understanding that I need to know my tools to do my best.
+So, basically put, the dot prompt or CLI method is lines and lines of code directing the computer to go to a particular spot for a file or perform a certain action.  GUI, on the other hand, is more of a point and click type of environment. That I love. That has made computer users out of so many. That has made the iPhone so user friendly. My dad is 80. He texts.  All thanks to GUI. Love you GUI. 
